@@ -1,5 +1,6 @@
 # LoL-Login-Autotype
 
+You must download the master tree if you want the source code
 
 ## Overview
 i wanted to improve the login functionnality, as i have to reconnect many times once i play.
